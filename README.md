@@ -1,1 +1,1 @@
-# jetbrains-academy
+# jetbrains-academy exercises
