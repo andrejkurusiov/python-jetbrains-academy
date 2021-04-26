@@ -9,7 +9,7 @@
 <!-- HEADER -->
 
 [![Python][python-shield]][python-url]
-[![MIT License][license-shield]][license-url]
+[![License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Python exercises - JetBrains Academy
@@ -48,8 +48,7 @@ $ pip install -r requirements.txt
 Distributed under the [MIT License](./LICENSE).
 
 <!-- MARKDOWN LINKS & IMAGES -->
-
-[license-shield]: https://img.shields.io/github/license/andrejkurusiov/python-jetbrains-academy?style=flat
+[license-shield]: https://img.shields.io/github/license/andrejkurusiov/python-jetbrains-academy
 [license-url]: ./LICENSE
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/andrejkurusiov/
